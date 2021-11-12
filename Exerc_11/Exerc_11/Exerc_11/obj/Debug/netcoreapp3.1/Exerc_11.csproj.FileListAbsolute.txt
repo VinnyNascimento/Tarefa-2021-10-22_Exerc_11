@@ -1,0 +1,14 @@
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\bin\Debug\netcoreapp3.1\Exerc_11.exe
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\bin\Debug\netcoreapp3.1\Exerc_11.deps.json
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\bin\Debug\netcoreapp3.1\Exerc_11.runtimeconfig.json
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\bin\Debug\netcoreapp3.1\Exerc_11.runtimeconfig.dev.json
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\bin\Debug\netcoreapp3.1\Exerc_11.dll
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\bin\Debug\netcoreapp3.1\Exerc_11.pdb
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.csproj.AssemblyReference.cache
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.AssemblyInfoInputs.cache
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.AssemblyInfo.cs
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.csproj.CoreCompileInputs.cache
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.dll
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.pdb
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\5. Aula05 (05-11-21)\Exercicios\Exerc_11\Exerc_11\Exerc_11\obj\Debug\netcoreapp3.1\Exerc_11.genruntimeconfig.cache
